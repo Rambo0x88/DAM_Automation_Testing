@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+addopts = [
+    "--screenshot=on",
+    "--output=Test Result/screenshots",
+    "--html=Test Result/report.html",
+    "--self-contained-html",
+]
