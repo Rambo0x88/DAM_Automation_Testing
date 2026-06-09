@@ -1,0 +1,212 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "price": "62800.539344",
+    "qty": "0.0001",
+    "cash": "6.28005393",
+    "price_id": "1261694149949527291",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "BTCUSDT",
+        "price_id": "1261694149949527291",
+        "price": "62800.539344",
+        "expire_ts": 1780977797807,
+        "countdown_ts": 5500,
+        "qty": "0.0001",
+        "cash": "6.28005393"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "price": "1666.525712",
+    "qty": "0.01",
+    "cash": "16.66525712",
+    "price_id": "1261694149639145358",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "ETHUSDT",
+        "price_id": "1261694149639145358",
+        "price": "1666.525712",
+        "expire_ts": 1780977797730,
+        "countdown_ts": 5500,
+        "qty": "0.01",
+        "cash": "16.66525712"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "BNBUSDT",
+    "price": "597.3677232",
+    "qty": "0.1",
+    "cash": "59.73677232",
+    "price_id": "1261694149551067544",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "BNBUSDT",
+        "price_id": "1261694149551067544",
+        "price": "597.3677232",
+        "expire_ts": 1780977797701,
+        "countdown_ts": 5500,
+        "qty": "0.1",
+        "cash": "59.73677232"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "SOLUSDT",
+    "price": "65.8237988",
+    "qty": "0.1",
+    "cash": "6.58237988",
+    "price_id": "1261694149521703648",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "SOLUSDT",
+        "price_id": "1261694149521703648",
+        "price": "65.8237988",
+        "expire_ts": 1780977797685,
+        "countdown_ts": 5500,
+        "qty": "0.1",
+        "cash": "6.58237988"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "XRPUSDT",
+    "price": "1.150368968",
+    "qty": "20",
+    "cash": "23.00737936",
+    "price_id": "1261694149483958279",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "XRPUSDT",
+        "price_id": "1261694149483958279",
+        "price": "1.150368968",
+        "expire_ts": 1780977797683,
+        "countdown_ts": 5500,
+        "qty": "20",
+        "cash": "23.00737936"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "price": "0.085150305216",
+    "qty": "200",
+    "cash": "17.03006104",
+    "price_id": "1261694151455284595",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "DOGEUSDT",
+        "price_id": "1261694151455284595",
+        "price": "0.085150305216",
+        "expire_ts": 1780977798158,
+        "countdown_ts": 5500,
+        "qty": "200",
+        "cash": "17.03006104"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "price": "6.643690792",
+    "qty": "0.5",
+    "cash": "3.32184539",
+    "price_id": "1261694151409147868",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "AVAXUSDT",
+        "price_id": "1261694151409147868",
+        "price": "6.643690792",
+        "expire_ts": 1780977798141,
+        "countdown_ts": 5500,
+        "qty": "0.5",
+        "cash": "3.32184539"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "DOTUSDT",
+    "price": "0.9547695728",
+    "qty": "10",
+    "cash": "9.54769572",
+    "price_id": "1261694151404953477",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "DOTUSDT",
+        "price_id": "1261694151404953477",
+        "price": "0.9547695728",
+        "expire_ts": 1780977798146,
+        "countdown_ts": 5500,
+        "qty": "10",
+        "cash": "9.54769572"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "LINKUSDT",
+    "price": "7.8602068",
+    "qty": "10",
+    "cash": "78.602068",
+    "price_id": "1261694151383975589",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "LINKUSDT",
+        "price_id": "1261694151383975589",
+        "price": "7.8602068",
+        "expire_ts": 1780977798138,
+        "countdown_ts": 5500,
+        "qty": "10",
+        "cash": "78.602068"
+      },
+      "success": true
+    }
+  },
+  {
+    "symbol": "LTCUSDT",
+    "price": "42.388562",
+    "qty": "0.1",
+    "cash": "4.2388562",
+    "price_id": "1261694151748880290",
+    "raw": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "symbol": "LTCUSDT",
+        "price_id": "1261694151748880290",
+        "price": "42.388562",
+        "expire_ts": 1780977798214,
+        "countdown_ts": 5500,
+        "qty": "0.1",
+        "cash": "4.2388562"
+      },
+      "success": true
+    }
+  }
+]
