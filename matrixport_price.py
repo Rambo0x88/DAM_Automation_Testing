@@ -23,7 +23,7 @@ import requests
 API_KEY = "ak-5fc6e4f8-6509-45dd-ada5-858a539b9d58"
 SECRET = "f4Mnb68zUVFSJWm8tXO62m5cjjbbApFjQQkZ1tudu4qg4PFyYFlTrElNPK7vnksz"
 
-BASE_URL = "https://mapi.matrixport.com"
+BASE_URL = os.environ.get("MATRIXPORT_BASE_URL", "https://mapi.matrixport.com")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # HARDCODED PAIRS — Edit this list to add/remove pairs you want to check.

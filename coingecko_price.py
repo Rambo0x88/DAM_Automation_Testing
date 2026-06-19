@@ -13,12 +13,13 @@ Usage:
 """
 
 import json
+import os
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
-BASE_URL = "https://api.coingecko.com/api/v3"
+BASE_URL = os.environ.get("COINGECKO_BASE_URL", "https://api.coingecko.com/api/v3")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # COINS — CoinGecko coin IDs mapped from Matrixport symbol names.

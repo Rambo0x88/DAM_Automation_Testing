@@ -32,8 +32,8 @@ import requests
 API_KEY = "ak-9c60c430-a9d5-483f-8d90-32494ab20022"
 SECRET  = "qGtXrDOMsHHVca5dg4Rimcy0gqjz0mBCW3cs3sV1iRzYAmv6GQ1Pjdw1mgEu0vEU"
 
-MATRIXPORT_BASE = "https://mapi.matrixport.com"
-COINGECKO_BASE  = "https://api.coingecko.com/api/v3"
+MATRIXPORT_BASE = os.environ.get("MATRIXPORT_BASE_URL", "https://mapi.matrixport.com")
+COINGECKO_BASE  = os.environ.get("COINGECKO_BASE_URL", "https://api.coingecko.com/api/v3")
 
 DAM_URL      = "https://dam-sit.mqbc21.com"
 DAM_EMAIL    = "roninx688@gmail.com"
